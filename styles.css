@@ -1,0 +1,76 @@
+body {
+    font-family: 'Montserrat', Arial, sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+    margin: 0;
+    padding: 50px 20px;
+    text-align: center;
+}
+
+h2 {
+    color: #222;
+    font-size: 24px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+form {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    display: inline-block;
+    padding: 25px 40px;
+    margin-bottom: 30px;
+    width: 100%;
+    max-width: 500px;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin: 12px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    box-sizing: border-box;
+    background-color: #f5f5f5;
+}
+
+button {
+    padding: 12px 20px;
+    background-color: #0056b3;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    width: 100%;
+    box-sizing: border-box;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #004099;
+}
+
+#primeraBienvenida {
+    color: #0056b3;
+    font-size: 22px;
+    margin-bottom: 30px;
+    font-weight: 500;
+}
+
+#bienvenida {
+    font-size: 22px;
+    margin-top: 20px;
+    font-weight: 500;
+    color: #444;
+}
+
+#diasVividos {
+    color: #666;
+    font-size: 18px;
+    margin-top: 10px;
+}
